@@ -8,21 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-Jiyue (Gill) Huang visited City University of Hong Kong as an exchange student in 2016, and received her BS degree in electronic information engineering from Tianjin University, China, in 2017. She received her master degree in computer science at Peking University, China. She is now working towards her doctor degree in the Distributed System group at TU Delft. Her research is mainly focused in the area of federated learning incentives and attacks.
+Chi Hong received his M.S. degress from Tsinghua University in Beijing. His research topic is system architecture and machine learning. He is interested in Bayesian learning, optimization, data consistency etc. His master study was supervised by Prof. Haixia Wang and Prof. Dongsheng Wang.
 
 Education
 ======
 
-**Peking University (School of Electronics and Computer Engineering)**
+**Delft University of Technology (The Distributed Systems Group, EWI)**
 
-*<small>2017.09 - 2020.07. M.S. IN COMPUTER APPLICATION TECHNOLOGY</small>*
+*<small>2020.10 - present. Ph.D in Machine Learning</small>*
 
 
-**City University of Hong Kong (Electronic Engineering Department)**
+**Tsinghua University (Department of Computer Science and Technology)**
 
-*<small>2016.08 - 2017.01. EXCHANGE STUDENT IN ELECTRONIC INFORMATION ENGINEERING</small>*
+*<small>2015.09 - 2018.07. M.S. in Computer Science and Technology</small>*
 
-**Tianjin University (School of Electronic Information Engineering)**
+**Tianjin University (School of Computer Science and Technology)**
 
-*<small>2013.09 - 2017.07. B.E. IN ELECTRONIC INFORMATION ENGINEERINGG</small>*
+*<small>2010.09 - 2014.07. B.E. in Computer Science and Technology</small>*
 
