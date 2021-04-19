@@ -8,34 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Chi Hong received his M.S. degress from Tsinghua University in Beijing. His research topic is system architecture and machine learning. He is interested in Bayesian learning, optimization, data consistency etc. His master study was supervised by Prof. Haixia Wang and Prof. Dongsheng Wang.
-
-Education
-======
-
-**Delft University of Technology (The Distributed Systems Group, EWI)**
-
-*<small>2020.10 - present. Ph.D in Machine Learning</small>*
+Chi Hong is now working as the Ph.D student at [TU Delft](https://www.tudelft.nl/en/) since Oct, 2020. He received his M.S. degress from [Tsinghua University](https://www.tsinghua.edu.cn/en/) in Beijing, and B.E. degree from [Tianjin University](http://www.tju.edu.cn/english/index.htm) in Tianjin. His research topic is system architecture and machine learning. He is interested in Bayesian learning, optimization, data consistency etc. His master study was supervised by Prof. Haixia Wang and Prof. Dongsheng Wang. Besides, he worked at NetEase Company as a senior software engineer.
 
 
-**Tsinghua University (Department of Computer Science and Technology)**
-
-*<small>2015.09 - 2018.07. M.S. in Computer Science and Technology</small>*
-
-**Tianjin University (School of Computer Science and Technology)**
-
-*<small>2010.09 - 2014.07. B.E. in Computer Science and Technology</small>*
-
-Work Experience
-======
-
-**HEX Studio, Engine Group, NetEase Company**
-
-*<small>2018.07 - 2019.11. Senior Software Engineer</small>*
-
-
-**Wenta Project, BAIOO Company**
-
-*<small>2014.07 - 2015.07. M.S. in Computer Science and Technology</small>*
 
 
