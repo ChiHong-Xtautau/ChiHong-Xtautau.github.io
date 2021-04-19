@@ -26,3 +26,16 @@ Education
 
 *<small>2010.09 - 2014.07. B.E. in Computer Science and Technology</small>*
 
+Work Experience
+======
+
+**HEX Studio, Engine Group, NetEase Company**
+
+*<small>2018.07 - 2019.11. Senior Software Engineer</small>*
+
+
+**Wenta Project, BAIOO Company**
+
+*<small>2014.07 - 2015.07. M.S. in Computer Science and Technology</small>*
+
+
